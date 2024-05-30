@@ -7,7 +7,7 @@
     3. Linear Color
     4. Radial Color
 
-Canvas
+- Canvas
     1. Create a canvas element
     2. using this canvas element create a Linear Gradient element
     3. for the linear gradient element add "addColorStop"
