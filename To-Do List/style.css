@@ -1,0 +1,28 @@
+.item-description {
+    padding: 5px;
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+.item-completed:checked + .item-description {
+    background: #dddddd;
+    text-decoration: line-through;
+}
+
+#add {
+    padding: 8px 14px;
+    font-weight: bold;
+    color: #ffffff;
+    background: #009578;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+}
+
+#add:hover {
+    background: hsla(168, 100%, 29%, 0.858);
+}
+
+#add:active {
+    background: hsla(168, 100%, 29%, 0.5);
+}
