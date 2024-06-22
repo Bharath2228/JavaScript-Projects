@@ -99,7 +99,7 @@ This code ensures that the to-do list is persistent across page reloads by utili
 
 
 
-# Dynamic Wallpaper Generator
+# Project: Dynamic Wallpaper Generator
 
 This JavaScript code creates a dynamic wallpaper generator using HTML Canvas. Users can input dimensions and colors to generate a wallpaper with linear and radial gradients.
 
